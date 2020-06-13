@@ -1,0 +1,1 @@
+java -jar MCSQ.jar %1
